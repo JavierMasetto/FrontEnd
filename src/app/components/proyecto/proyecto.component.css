@@ -1,0 +1,20 @@
+.row{
+    background-color: aliceblue;
+    padding: 20px;  
+
+}
+.contenedor{
+    width: auto;
+    
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+
+}
+
+.img-proyecto{
+    box-shadow: 15px 15px 20px #000000;
+    border-radius: 80px;
+
+}
